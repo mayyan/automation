@@ -1,6 +1,7 @@
 {
   "ralphURL": "http://ralphsays.github.io",
   "demoURL": "http://webdriverjsdemo.github.io",
+  "dgURL": "https://dg.coupons.com/",
   "explicitWaitMS": 2000,
   "mochaTimeoutMS": 30000
 }
